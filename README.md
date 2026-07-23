@@ -2,6 +2,8 @@
 
 A React Native 0.86 mini application integrated with [Zephyr Cloud](https://zephyr-cloud.io) via the [Metro bundler plugin](https://docs.zephyr-cloud.io/bundlers/metro). It exposes a Module Federation remote and deploys bundles through Zephyr's default Cloud integration.
 
+https://github.com/ogluisg/zephyrreactnative/raw/main/react-native-demo.mp4
+
 ![iOS Simulator](docs/simulator-screenshot.png)
 
 ## Live deployment
